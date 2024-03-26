@@ -1,0 +1,21 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '2 out of 2' test cases in the current suite                                        
+                                               Test Method: 'com.qacart.shaft.openbrowsers.waits'                                               
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Setting "targetOperatingSystem" property with "windows". @26-03-2024 09:43:12.0816 AM
+[ReportManager] Capabilities {acceptInsecureCerts: true, browserName: chrome, goog:chromeOptions: {args: [--start-maximized], extensions: [], prefs: {download.default_directory: C:\Users\Boutiqaat\IdeaProj..., download.prompt_for_download: false, profile.default_content_settings.popups: 0}}, pageLoadStrategy: normal, timeouts: {pageLoad: 60000, script: 60000}, unhandledPromptBehavior: ignore, webSocketUrl: true} @26-03-2024 09:43:12.0816 AM
+[ReportManager] Attempting to run locally on: "Windows | Chrome". @26-03-2024 09:43:12.0816 AM
+[ReportManager] Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection... @26-03-2024 09:43:12.0816 AM
+[ReportManager] Successfully Opened: "Windows | Chrome". @26-03-2024 09:43:13.0898 AM
+[ReportManager] Target URL: "https://hatem-hatamleh.github.io/Selenium-html/wait.html" @26-03-2024 09:43:13.0945 AM
+[ReportManager] Initial URL: "about:blank" @26-03-2024 09:43:13.0984 AM
+[ReportManager] Navigate to url "https://hatem-hatamleh.github.io/Selenium-html/wait.html". @26-03-2024 09:43:14.0687 AM
+[ReportManager] Moved the mouse to the middle of the element. @26-03-2024 09:43:17.0792 AM
+[ReportManager] Click "By.className: primary". @26-03-2024 09:43:17.0808 AM
+[ReportManager] Moved the mouse to the middle of the element. @26-03-2024 09:43:17.0968 AM
+[ReportManager] Moved the mouse to the middle of the element. @26-03-2024 09:43:19.0302 AM
+[ReportManager] Moved the mouse to the middle of the element. @26-03-2024 09:43:20.0568 AM
+[ReportManager] Click "Secondary". @26-03-2024 09:43:20.0835 AM
+[ReportManager] Successfully Closed Driver. @26-03-2024 09:43:20.0952 AM
